@@ -53,3 +53,5 @@ App Name: index
 
 restart app: pm2 restart index
 monit app: pm2 monit
+
+Server URL: 146.190.132.120
